@@ -1,7 +1,11 @@
-### Hi there 👋
+![github_readme](https://user-images.githubusercontent.com/113401733/191803853-7108ac77-76dc-4391-9a79-bbf45cc3d2d8.jpg)
+<h1> Yeeun Lee </h1>
+
+<p> 🌱 learning 🌱 </p>
 
 <!--
-**yegri/yegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yegri/yegri** is a ✨ _special_ ✨ repository bec![Uploading github_readme.jpg…]()
+ause its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
