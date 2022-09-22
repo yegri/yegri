@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeeun%20Lee&fontSize=80&animation=fadeIn1.5s&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=260&section=header&text=Yeeun%20Lee&fontSize=80&animation=fadeIn1.5s&fontColor=ffffff)
 
 
 <h3 align="center"> 🌱 learning  </h3>
