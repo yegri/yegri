@@ -1,12 +1,16 @@
-![github_background 사본](https://user-images.githubusercontent.com/113401733/191808326-38406a79-4ff3-4878-86b2-862960ea0adc.jpg)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yeeun%Lee&fontSize=90)
 
 
-<h3 align="center"> 🌱 learning 🌱 </h3>
+<h3 align="center"> 🌱 learning  </h3>
 <p align="center">
 #html #css #javascript #jquery #react
 </p>
-
-
+<br>
+<h3 align="center"> 📫 How to reach me </h3>
+<p align="center"> e-mail </p>
+<br>
+<h3 align="center"> ⚡ About me </h3>
+<p align="center"> blog </p>
 
 <!--
 **yegri/yegri** is a ✨ _special_ ✨ repository bec![Uploading github_readme.jpg…]()
