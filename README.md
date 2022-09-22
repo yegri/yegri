@@ -1,7 +1,11 @@
-![github_readme](https://user-images.githubusercontent.com/113401733/191803853-7108ac77-76dc-4391-9a79-bbf45cc3d2d8.jpg)
-<h1> Yeeun Lee </h1>
+![github_background_a](https://user-images.githubusercontent.com/113401733/191807663-d93b3ee0-6b5e-4e5c-9420-102bcafa3bd2.jpg)
 
-<p> 🌱 learning 🌱 </p>
+<h3 align="center"> 🌱 learning 🌱 </h3>
+<p align="center">
+#html #css #javascript #jquery #react
+</p>
+
+
 
 <!--
 **yegri/yegri** is a ✨ _special_ ✨ repository bec![Uploading github_readme.jpg…]()
