@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=260&section=header&text=Yeeun%20Lee&fontSize=80&animation=fadeIn1.5s&fontColor=ffffff)
 
 
-<h3 align="center"> 🌱 learning  </h3>
+<h3 align="center"> 🌱 Learning  </h3>
 <p align="center">
 #html #css #javascript #jquery #react
 </p>
