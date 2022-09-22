@@ -1,4 +1,5 @@
-![github_background_a](https://user-images.githubusercontent.com/113401733/191807663-d93b3ee0-6b5e-4e5c-9420-102bcafa3bd2.jpg)
+![github_background 사본](https://user-images.githubusercontent.com/113401733/191808326-38406a79-4ff3-4878-86b2-862960ea0adc.jpg)
+
 
 <h3 align="center"> 🌱 learning 🌱 </h3>
 <p align="center">
