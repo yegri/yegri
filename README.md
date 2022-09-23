@@ -15,7 +15,7 @@
 <p align="center"> <a href="mailto:exsilver305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a> </p>
 <br>
 <h3 align="center"> ⚡ About me </h3>
-<p align="center"> blog </p>
+<p align="center"> <a href="https://excoding.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://excoding.tistory.com/"/></a> </p>
 
 <!--
 **yegri/yegri** is a ✨ _special_ ✨ repository bec![Uploading github_readme.jpg…]()
