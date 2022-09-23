@@ -3,12 +3,16 @@
 
 <h3 align="center"> 🌱 Learning  </h3>
 <p align="center">
-#html #css #javascript #jquery #react
-<img src="https://img.shields.io/badge/html-#E34F26?style=for-the-badge&logo=HTML5g&logoColor=black">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 <br>
 <h3 align="center"> 📫 How to reach me </h3>
-<p align="center"> e-mail </p>
+<p align="center"> <a href="mailto:exsilver305@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a> </p>
 <br>
 <h3 align="center"> ⚡ About me </h3>
 <p align="center"> blog </p>
