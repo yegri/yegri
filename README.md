@@ -4,6 +4,7 @@
 <h3 align="center"> 🌱 Learning  </h3>
 <p align="center">
 #html #css #javascript #jquery #react
+<img src="https://img.shields.io/badge/html-#E34F26?style=for-the-badge&logo=html5.svg&logoColor=black">
 </p>
 <br>
 <h3 align="center"> 📫 How to reach me </h3>
