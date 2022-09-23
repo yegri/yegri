@@ -2,7 +2,7 @@
 
 ![space](https://user-images.githubusercontent.com/113401733/191881229-822a31a1-280b-481c-a286-938f633b85d5.jpg)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=260&section=header&text=Yeeun%20Lee&fontSize=80&animation=fadeIn1.2s&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=91a2b5&height=260&section=header&text=Yeeun%20Lee&fontSize=80&animation=fadeIn1.2s&fontColor=ffffff)
 
 
 <h3 align="center"> 🌱 Learning  </h3>
