@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyegri&count_bg=%233D51C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![space](https://user-images.githubusercontent.com/113401733/191881229-822a31a1-280b-481c-a286-938f633b85d5.jpg)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0a0813&height=260&section=header&text=Yeeun%20Lee&fontSize=80&animation=fadeIn1.2s&fontColor=ffffff)
