@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Nextt-61DAFB?style=for-the-badge&logo=Next&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQL-61DAFB?style=for-the-badge&logo=GraphQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-e10098?style=for-the-badge&logo=GraphQL&logoColor=white">
 </p>
 <br>
 <h3 align="center"> 📫 How to reach me </h3>
